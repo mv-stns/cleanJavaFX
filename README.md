@@ -4,7 +4,7 @@
 
 ## 🛠️ Technologie-Stack
 
-[!TIP] Das Projekt verwendet:
+> [!TIP] Das Projekt verwendet:
 >
 > - JavaFX 23.0.1 für die grafische Benutzeroberfläche
 > - Java 21 (Corretto) als Runtime
