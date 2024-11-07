@@ -1,6 +1,7 @@
 # 🎵 JavaFX Template
 
-> [!NOTE] Dies ist eine JavaFX Vorlage für ein MP3-Player Projekt. Das Projekt ist vorkonfiguriert und bereit zur Verwendung mit modernen Entwicklungswerkzeugen.
+> [!NOTE] 
+> Dies ist eine JavaFX Vorlage für ein MP3-Player Projekt. Das Projekt ist vorkonfiguriert und bereit zur Verwendung mit modernen Entwicklungswerkzeugen.
 
 ## 🛠️ Technologie-Stack
 
