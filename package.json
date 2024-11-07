@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "Marcus Vaitschulis"
+  },
+  "name": "javafx-template",
+  "devDependencies": {
+    "prettier-plugin-java": "^2.6.5"
+  },
+  "scripts": {
+    "pretty:java": "prettier --write \"**/*.java\""
+  },
+  "dependencies": {
+    "prettier": "^3.3.3",
+    "prettier-plugin-java": "^2.6.5"
+  }
+}
